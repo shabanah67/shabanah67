@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shabana Ajamal Hannure
-- 👀 I’m interested in SQL & Python
+- 👀 I’m interested in data data data....lots of data 
 - 🌱 I’m currently Studying MS BAIS at USF 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 To contact me: https://www.linkedin.com/in/shabanah/
