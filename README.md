@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shabana Ajamal Hannure
+- 👋 Hi, I’m Shabana
 - 👀 I’m interested in data Science
 - 🌱 I’m currently Studying MS BAIS at USF 
 - 💞️ I’m looking to collaborate on open source projects
