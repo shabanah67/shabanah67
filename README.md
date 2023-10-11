@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shabana
 - 👀 I’m interested in data analytics and AI/ML
 - 🌱 I’m currently working as a Business Analyst 
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I’m looking for collaborating in open source projects
 - 📫 To contact me: https://www.linkedin.com/in/shabanah/
 
 <!---
